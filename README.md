@@ -2,7 +2,7 @@
 <h1>RentACar data scripts</h1>
 
 <h2>Classes you can use to create the data</h2>
-<p><a href="CreateData.apxc"><strong style="color:blue">CreateData.apxc</strong></a>: This file has the code to create the data to be used in your RentACar Application</p>
+<p><a href="/RentACar/classes/CreateData.apxc"><strong style="color:blue">CreateData.apxc</strong></a>: This file has the code to create the data to be used in your RentACar Application</p>
 <p><a href="DeleteData.apxc"><strong style="color:blue">DeleteData.apxc</strong></a>: This file has the code to delete the data created by CreatedData.apxc file</p>
 <p><a href="CreateDataTest.apxc"><strong style="color:blue">CreateDataTest.apxc</strong></a>: TestClass for CreateData class</p>
 <p><a href="DeleteDataTest.apxc"><strong style="color:blue">DeleteDataTest.apxc</strong></a>: TestClass for DeleteData class</p>
