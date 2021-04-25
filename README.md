@@ -1,5 +1,6 @@
-# RentACar SFDX Metadat
-<h1>RentACar data scripts</h1>
+# RentACar SFDX Metadata
+This is sample respository of my [udemy course](https://www.udemy.com/course/lightning-web-component-development/). The repo contains the metadata of RentACar Application. Please follow the instruction in the course to install this schema.
+
 
 <h2>Classes you can use to create the data</h2>
 <p><a href="/RentACar/classes/CreateData.cls"><strong style="color:blue">CreateData.apxc</strong></a>: This file has the code to create the data to be used in your RentACar Application</p>
